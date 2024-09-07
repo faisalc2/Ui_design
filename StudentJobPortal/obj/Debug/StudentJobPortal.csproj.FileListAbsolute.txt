@@ -1,0 +1,12 @@
+C:\Users\faisa\source\repos\StudentJobPortal\bin\Debug\StudentJobPortal.exe.config
+C:\Users\faisa\source\repos\StudentJobPortal\bin\Debug\StudentJobPortal.exe
+C:\Users\faisa\source\repos\StudentJobPortal\bin\Debug\StudentJobPortal.pdb
+C:\Users\faisa\source\repos\StudentJobPortal\obj\Debug\StudentJobPortal.csproj.AssemblyReference.cache
+C:\Users\faisa\source\repos\StudentJobPortal\obj\Debug\StudentJobPortal.Form1.resources
+C:\Users\faisa\source\repos\StudentJobPortal\obj\Debug\StudentJobPortal.Properties.Resources.resources
+C:\Users\faisa\source\repos\StudentJobPortal\obj\Debug\StudentJobPortal.csproj.GenerateResource.cache
+C:\Users\faisa\source\repos\StudentJobPortal\obj\Debug\StudentJobPortal.csproj.CoreCompileInputs.cache
+C:\Users\faisa\source\repos\StudentJobPortal\obj\Debug\StudentJobPortal.exe
+C:\Users\faisa\source\repos\StudentJobPortal\obj\Debug\StudentJobPortal.pdb
+C:\Users\faisa\source\repos\StudentJobPortal\obj\Debug\StudentJobPortal.Form2.resources
+C:\Users\faisa\source\repos\StudentJobPortal\obj\Debug\StudentJobPortal.DashBoard.resources
